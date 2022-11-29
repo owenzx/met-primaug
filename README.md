@@ -1,7 +1,7 @@
 # Mutual Exclusivity Training and Primitive Augmentation to Induce Compositionality
 This repository contains the official code for the paper:
 
-[Mutual Exclusivity Training and Primitive Augmentation to Induce Compositionality](https://arxiv.org/)
+[Mutual Exclusivity Training and Primitive Augmentation to Induce Compositionality](https://arxiv.org/abs/2211.15578)
 
 Yichen Jiang*, Xiang Zhou* and Mohit Bansal
 
